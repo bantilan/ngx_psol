@@ -1,3 +1,3 @@
-[submodule "incubator-pagespeed-mod"]
-	path = incubator-pagespeed-mod
-	url = https://github.com/apache/incubator-pagespeed-mod.git
+[submodule "mod_pagespeed"]
+	path = mod_pagespeed
+	url = https://github.com/bantilan/mod_pagespeed.git
