@@ -1,3 +1,4 @@
 [submodule "mod_pagespeed"]
 	path = mod_pagespeed
 	url = https://github.com/bantilan/mod_pagespeed.git
+	ignore = all
